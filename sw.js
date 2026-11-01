@@ -1,5 +1,5 @@
 // Jom Cakap offline support. App shell: network-first (updates arrive), audio packs and photos: cache-first.
-const V = '5e124acb';
+const V = '4c325b8a';
 const APP = 'jc-app-' + V;
 const AUD = 'jc-audio';
 const EXT = 'jc-ext-v1';
